@@ -24,8 +24,8 @@ If you find this code useful in your research, please cite :
 ```bash
 @inproceedings{ ,
   title={Instance-Dependent Label-Noise Learning with Manifold-Regularized Transition Matrix Estimation.},
-  author={ },
-  booktitle={ },
-  year={ }
+  author={De Cheng, Tongliang Liu, Yixiong Ning, Nannan Wang, Bo Han, Gang Niu, Xinbo Gao, Masashi Sugiyama},
+  booktitle={CVPR},
+  year={2022}
 }
 ```
